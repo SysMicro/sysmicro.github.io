@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-description: the research projects in microbma lab
+description: 
 background: '/img/bg-project.jpg'
 form: true
 ---
