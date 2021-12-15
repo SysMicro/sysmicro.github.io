@@ -1,11 +1,11 @@
-title:             microbma lab
-email:             bma@zju.edu.cn 
-description:       exploring wired microbiomes
-author:            Bin Ma
+title:             System Microbiology
+email:             zhaokk@zju.edu.cn 
+description:       Exploring microbial world in a system perspective.
+author:            Zhao Kankan
 url:               "http://microbma.github.io"
 
 # Social Profiles
-github_username:   microbma
+github_username:   SysMicro
 
 # Build settings
 markdown:          kramdown
