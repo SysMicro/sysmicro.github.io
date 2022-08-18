@@ -6,7 +6,7 @@ background: '/img/bg-fruits.jpg'
 form: true
 ---
 
-- Zhao K, Yu H, Xue R, et al. The only constant is change: Endogenous circadian rhythms of soil microbial activities[J]. Soil Biology and Biochemistry, 2022: 108805. [https://doi.org/10.1016/j.soilbio.2022.108805](https://doi.org/10.1016/j.soilbio.2022.108805)
+- Zhao K, Yu H, Xue R, et al. The only constant is change: Endogenous circadian rhythms of soil microbial activities. Soil Biology and Biochemistry, 2022: 108805. [https://doi.org/10.1016/j.soilbio.2022.108805](https://doi.org/10.1016/j.soilbio.2022.108805)
 - Shen Y, Laue H E, Shrubsole M J, et al. Associations of Childhood and Perinatal Blood Metals with Children’s Gut Microbiomes in a Canadian Gestation Cohort. Environmental health perspectives, 2022, 130(1): 017007. [https://doi.org/10.1289/EHP9674](https://doi.org/10.1289/EHP9674)
 - Dai C, Wu H, Wang X, et al. Network and meta-omics reveal the cooperation patterns and mechanisms in an efficient 1, 4-dioxane-degrading microbial consortium. Chemosphere, 2022, 301: 134723. [https://doi.org/10.1016/j.chemosphere.2022.134723](https://doi.org/10.1016/j.chemosphere.2022.134723)
 - Liu, Y.; Ma, B.; Chen, W.; Schlaeppi, K.; Erb, M.; Stirling, E.; Hu L.; Wang E.; Zhang Y.; Zhao K.; Lu Z.; Ye S.; Xu, J. Rhizobium symbiotic capacity shapes root-associated microbiomes in soybean. Frontiers in Microbiology 2021, 3711. [https://doi.org/10.3389/fmicb.2021.709012](https://doi.org/10.3389/fmicb.2021.709012)
