@@ -9,8 +9,6 @@ form: true
 
 1. [Rhizosphere circadian rhythms project](/project/circadian.md)
 
-<img src="project/clock.jpg" width="300" align="middle">
-
 2. Potential health risks of vertebrate viruses in global soils
 
 3. A space odyssey of global earthworm expansion
