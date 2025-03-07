@@ -36,5 +36,3 @@ form: true
 3. Ma B, Zhao K, Lv X, Su W, Dai Z, Gillbert J, Brookes P, Faust K, Xu J. Genetic correlation network prediction of forest soil microbial functional organization. The ISME Journal, 2018, 12(10): 2492.
 2. Lv X, Zhao K, Li H, Ma B. Niche partition of phenanthrene-degrading bacteria along a Phragmites australis rhizosphere gradient. Biology and Fertility of Soils, 2018, 54(5): 607-616.
 1. Lai C, Wen L, Shi L, Zhao K, Wang Y, Yang X, Rittmann B, Zhou C, Tang Y, Zheng P, Zhao H. Selenate and nitrate bioreductions using methane as the electron donor in a membrane biofilm reactor. Environmental Science & Technology, 2016, 50(18): 10179-10186.
-
-
