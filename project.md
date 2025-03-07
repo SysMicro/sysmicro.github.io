@@ -10,12 +10,17 @@ form: true
 #### [1. Rhizosphere Circadian Rhythms Project](/project/circadian.md)
 <img src="project/clock.jpg" width="300" align="middle">
 
+
 #### 2. Potential health risks of vertebrate viruses in global soils
 
-#### 3. A space odyssey of global earthworm expansion with human activity since 1500.
+
+#### 3. A space odyssey of global earthworm expansion with human activity since 1500
+
 
 #### 4. Healthy soil project
 
+
 #### 5. RESTOR-C: Restoration of Soil Carbon by Precision Biological Strategies
+
 
 #### 6. Treatment for Extended-Spectrum Beta-Lactamase (ESBL) Infections 
