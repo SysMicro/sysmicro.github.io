@@ -6,8 +6,9 @@ background: '/img/bg-fruits.jpg'
 form: true
 ---
 
-31. Zhao K, Wang Y, Xue R, Liu X, Ma B, Xu J. Agriculture increases potential health risks of vertebrate viruses in soils. iMeta, accepted.
-30. Song X, Wang Y, Wang Y, Zhao K, Tong D, Lv X, Kong D, Wang M, Tang X, Li F, Luo Y, Zhu Y, Xu J, Ma B. Rhizosphere-triggered viral lysogeny mediates microbial metabolic reprogramming to enhance arsenic oxidation. Nature Communications, accepted.
+32. Song X, Wang Y, Wang Y, Zhao K, Tong D, Lv X, Kong D, Wang M, Tang X, Li F, Luo Y, Zhu Y, Xu J, Ma B. Rhizosphere-triggered viral lysogeny mediates microbial metabolic reprogramming to enhance arsenic oxidation. Nature Communications, accepted.
+31. Zhao K, Wang Y, Xue R, Liu X, Ma B, Xu J. Agriculture increases potential health risks of vertebrate viruses in soils. iMeta, 2025, 4:70034.
+30. He D, Dai Z, Cheng S, Shen H, Lin J, Zhao K, Rodrigues JL, Kuzyakov Y, Xu J. Microbial life-history strategies and genomic traits between pristine and cropland soils. mSystems. 2025, e00178-25.
 29. Ding C, Liu Y, Hernández M, Sun H, Jiao S, Pan H, Ge T, Zhao K, Zhang Q, Xu J, Li Y. Coupling soil bacterial and fungal community traits to multifunctionality in grassland ecosystem. Agriculture, Ecosystems & Environment, 2025, 388:109648.
 28. Zhang S, Sun J, Zhou Q, Feng X, Yang J, Zhao K, Zhang A, Zhang S, Yao Y. Microplastic contamination in Chinese topsoil from 1980 to 2050. Science of the Total Environment, 2024, 955: 176918.
 27. Wang X, Dai Z, Lin J, Peng X, Zhao Y, Yu H, Zhao K, Barberán A, Kuzyakov Y. Microbial rrn copy number is associated with soil C:N and pH under long-term fertilization. Science of the Total Environment, 2024, 954: 176675.
