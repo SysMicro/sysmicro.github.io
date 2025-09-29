@@ -6,7 +6,8 @@ background: '/img/bg-fruits.jpg'
 form: true
 ---
 
-32. Song X, Wang Y, Wang Y, Zhao K, Tong D, Lv X, Kong D, Wang M, Tang X, Li F, Luo Y, Zhu Y, Xu J, Ma B. Rhizosphere-triggered viral lysogeny mediates microbial metabolic reprogramming to enhance arsenic oxidation. Nature Communications, 2025, 16: 4048.
+32. He J, Xiao J, Shen X, Zhao K, Lei X, Zhang H, Sun C, Lu H, Shao Y. Multi-Habitat Landscape Promotes Microbial Diversity: Insights from the Traditional Agricultural Heritage and the Global Trend. Advanced Science, 2025, e06402.
+33. Song X, Wang Y, Wang Y, Zhao K, Tong D, Lv X, Kong D, Wang M, Tang X, Li F, Luo Y, Zhu Y, Xu J, Ma B. Rhizosphere-triggered viral lysogeny mediates microbial metabolic reprogramming to enhance arsenic oxidation. Nature Communications, 2025, 16: 4048.
 31. Zhao K, Wang Y, Xue R, Liu X, Ma B, Xu J. Agriculture increases potential health risks of vertebrate viruses in soils. iMeta, 2025, 4:70034.
 30. He D, Dai Z, Cheng S, Shen H, Lin J, Zhao K, Rodrigues JL, Kuzyakov Y, Xu J. Microbial life-history strategies and genomic traits between pristine and cropland soils. mSystems. 2025, e00178-25.
 29. Ding C, Liu Y, Hernández M, Sun H, Jiao S, Pan H, Ge T, Zhao K, Zhang Q, Xu J, Li Y. Coupling soil bacterial and fungal community traits to multifunctionality in grassland ecosystem. Agriculture, Ecosystems & Environment, 2025, 388:109648.
@@ -23,7 +24,7 @@ form: true
 18. Ma B#, Lu C#, Wang Y#, Yu J, Zhao K, Xue R, Ren H, Lv XF, Pan R, Zhang J, Zhu Y, Xu J. A genomic catalogue of soil microbiomes boosts mining of biodiversity and genetic resources. Nature Communications, 2023,14(1):7318.
 17. Xue R, Liu S, Stirling E, Wang Y, Zhao K, Marsumoto H, Wang M, Xu J, Ma B. Core community drives phyllosphere bacterial diversity and function in multiple ecosystems. Science of The Total Environment, 2023, 896: 165187.
 16. Yuan J, Zhao K, Tan X, Xue R, Zeng Y, Carlo R, Trivedi P. Prospective on the development of synthetic microbial community (SynCom) biosensors. Trends in Biotechnology, 2023, 41(10): 1227-1236.
-15. Wang B, Xu J, Wang Y, Stirling E, Zhao K, Lu C, Tan X, Kong D, Yan Q, He Z, Ruan Y, Ma B. Tackling antibiotic resistance gene carrying pathogens in soils with global-scale metagenomics. Advanced Science, 2023, 2301980.
+15. Wang B, Xu J, Wang Y, Stirling E, Zhao K, Lu C, Tan X, Kong D, Yan Q, He Z, Ruan Y, Ma B. Tackling antibiotic resistance gene carrying pathogens in soils with global-scale metagenomics. Advanced Science, 2023, 10: 2301980.
 14. Xue R, Liu S, Stirling E, Wang Y, Zhao K, Matsumoto H, Wang M, Xu J, Ma B. Core community drives phyllosphere bacterial diversity and function in multiple ecosystems. Science of the Total Environment, 2023, 896: 165187.
 13. Song X, Li Y, Stirling E, Zhao K, Wang B, Zhu Y, Luo Y, Xu J, Ma B. AsgeneDB: a curated orthology arsenic metabolism gene database and computational tool for metagenome annotation. NAR genomics and bioinformatics, 2022, 4(4): lqac080.
 12. Zhao K, Yu H, Xue R, Stirling E, Wang Y, Xu J, Ma B. The only constant is change: Endogenous circadian rhythms of soil microbial activities. Soil Biology and Biochemistry, 2022, 173: 108805.
