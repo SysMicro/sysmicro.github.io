@@ -6,8 +6,8 @@ background: '/img/bg-fruits.jpg'
 form: true
 ---
 
-32. He J, Xiao J, Shen X, Zhao K, Lei X, Zhang H, Sun C, Lu H, Shao Y. Multi-Habitat Landscape Promotes Microbial Diversity: Insights from the Traditional Agricultural Heritage and the Global Trend. Advanced Science, 2025, e06402.
-33. Song X, Wang Y, Wang Y, Zhao K, Tong D, Lv X, Kong D, Wang M, Tang X, Li F, Luo Y, Zhu Y, Xu J, Ma B. Rhizosphere-triggered viral lysogeny mediates microbial metabolic reprogramming to enhance arsenic oxidation. Nature Communications, 2025, 16: 4048.
+33. He J, Xiao J, Shen X, Zhao K, Lei X, Zhang H, Sun C, Lu H, Shao Y. Multi-Habitat Landscape Promotes Microbial Diversity: Insights from the Traditional Agricultural Heritage and the Global Trend. Advanced Science, 2025, e06402.
+32. Song X, Wang Y, Wang Y, Zhao K, Tong D, Lv X, Kong D, Wang M, Tang X, Li F, Luo Y, Zhu Y, Xu J, Ma B. Rhizosphere-triggered viral lysogeny mediates microbial metabolic reprogramming to enhance arsenic oxidation. Nature Communications, 2025, 16: 4048.
 31. Zhao K, Wang Y, Xue R, Liu X, Ma B, Xu J. Agriculture increases potential health risks of vertebrate viruses in soils. iMeta, 2025, 4:70034.
 30. He D, Dai Z, Cheng S, Shen H, Lin J, Zhao K, Rodrigues JL, Kuzyakov Y, Xu J. Microbial life-history strategies and genomic traits between pristine and cropland soils. mSystems. 2025, e00178-25.
 29. Ding C, Liu Y, Hernández M, Sun H, Jiao S, Pan H, Ge T, Zhao K, Zhang Q, Xu J, Li Y. Coupling soil bacterial and fungal community traits to multifunctionality in grassland ecosystem. Agriculture, Ecosystems & Environment, 2025, 388:109648.
@@ -38,4 +38,4 @@ form: true
 4. Lv X, Zhao K, Xue R, Liu Y, Xu J, Ma B. Strengthening insights in microbial ecological networks from theory to applications. mSystems, 2019, 4(3): e00124-19.
 3. Ma B, Zhao K, Lv X, Su W, Dai Z, Gillbert J, Brookes P, Faust K, Xu J. Genetic correlation network prediction of forest soil microbial functional organization. The ISME Journal, 2018, 12(10): 2492.
 2. Lv X, Zhao K, Li H, Ma B. Niche partition of phenanthrene-degrading bacteria along a Phragmites australis rhizosphere gradient. Biology and Fertility of Soils, 2018, 54(5): 607-616.
-1. Lai C, Wen L, Shi L, Zhao K, Wang Y, Yang X, Rittmann B, Zhou C, Tang Y, Zheng P, Zhao H. Selenate and nitrate bioreductions using methane as the electron donor in a membrane biofilm reactor. Environmental Science & Technology, 2016, 50(18): 10179-10186.
+1. Lai C, Wen L, Shi L, Zhao K, Wang Y, Yang X, Rittmann B, Zhou C, Tang Y, Zheng P, Zhao H. [Selenate and nitrate bioreductions using methane as the electron donor in a membrane biofilm reactor](https://pubs.acs.org/doi/abs/10.1021/acs.est.6b02807). ```*Environmental Science & Technology*```, 2016, 50(18): 10179-10186.
