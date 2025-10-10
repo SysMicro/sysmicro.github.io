@@ -8,14 +8,18 @@ tags: [protein, music-generation, joy-division, post-punk, web-audio-api]
 
 An experimental project that transforms the E. coli RNA Polymerase beta subunit protein sequence into a dark, anxious post-punk composition inspired by Joy Division's "She's Lost Control."
 
+**[🎵 Launch Interactive Experience](/assets/protein-control.html){:target="_blank" .btn .btn-primary}**
+
 <div style="width: 100%; height: 800px; border: 2px solid #374151; margin: 2rem 0; background: #000;">
   <iframe 
-    src="sysmicro.github.io/assets/protein-control.html" 
+    src="/assets/protein-control.html" 
     style="width: 100%; height: 100%; border: none;"
     title="Protein Control Interactive"
     allow="autoplay">
   </iframe>
 </div>
+
+*Can't see the player? [Click here to open in a new tab](/assets/protein-control.html){:target="_blank"}*
 
 ## Concept
 
@@ -90,6 +94,7 @@ The entire piece is generated in real-time using only browser-native Web Audio A
 
 ---
 
+**Technologies**: Web Audio API, Vanilla JavaScript, HTML5  
 **Inspiration**: Joy Division, Protein Data Bank, Post-Punk Aesthetics  
 **Protein**: E. coli RNA Polymerase beta subunit (PDB: Various)
 
