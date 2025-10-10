@@ -10,16 +10,6 @@ An experimental project that transforms the E. coli RNA Polymerase beta subunit 
 
 **[🎵 Launch Interactive Experience](/assets/protein-control.html){:target="_blank" .btn .btn-primary}**
 
-<div style="width: 100%; height: 800px; border: 2px solid #374151; margin: 2rem 0; background: #000;">
-  <iframe 
-    src="/assets/protein-control.html" 
-    style="width: 100%; height: 100%; border: none;"
-    title="Protein Control Interactive"
-    allow="autoplay">
-  </iframe>
-</div>
-
-*Can't see the player? [Click here to open in a new tab](/assets/protein-control.html){:target="_blank"}*
 
 ## Concept
 
