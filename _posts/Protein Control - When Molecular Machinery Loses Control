@@ -1,0 +1,96 @@
+---
+layout: post
+title: "Protein Control - When Molecular Machinery Loses Control"
+date: 2025-10-10
+categories: [bioinformatics, music, creative-coding, web-audio]
+tags: [protein, music-generation, joy-division, post-punk, web-audio-api]
+---
+
+An experimental project that transforms the E. coli RNA Polymerase beta subunit protein sequence into a dark, anxious post-punk composition inspired by Joy Division's "She's Lost Control."
+
+<div style="width: 100%; height: 800px; border: 2px solid #374151; margin: 2rem 0; background: #000;">
+  <iframe 
+    src="{{ site.baseurl }}/assets/protein-control.html" 
+    style="width: 100%; height: 100%; border: none;"
+    title="Protein Control Interactive"
+    allow="autoplay">
+  </iframe>
+</div>
+
+## Concept
+
+RNA Polymerase is the molecular machine responsible for transcribing DNA into RNA—a fundamental process of gene expression. When regulation fails, cellular chaos ensues. This project captures that tension: the mechanical rhythms represent molecular machinery, the anxious tone reflects loss of control, and the relentless tempo mirrors unstoppable biological processes.
+
+The music generated is not random noise—it's a direct translation of biological data into sonic form, where the most abundant amino acids in the protein sequence determine the musical themes.
+
+## Technical Approach
+
+### 1. Protein-to-Music Mapping
+
+The protein sequence (689 amino acids) is analyzed by calculating amino acid frequencies. The top 4 most frequent amino acids are mapped to distinct musical roles:
+
+- **Bass Line** (Peter Hook style): Most frequent amino acid
+- **Guitar** (Bernard Sumner style): Second most frequent
+- **Lead Melody**: Third most frequent  
+- **Synth Pad**: Fourth most frequent
+
+Each of the 20 standard amino acids is assigned a specific frequency in a minor key scale, creating a dark, brooding tonal palette.
+
+### 2. Joy Division Aesthetic
+
+The composition draws heavy inspiration from "She's Lost Control" (1979):
+
+- **Tempo**: 132 BPM—fast, urgent, relentless
+- **Bass**: Driving 8th notes with sawtooth distortion, high in the mix
+- **Guitar**: Minimal, filtered sine waves creating cold texture
+- **Synth**: Dark pads with subtle detuning for an unsettling atmosphere
+- **Drums**: Steady, mechanical, tribal (Stephen Morris style)
+- **Structure**: Verse-Chorus-Breakdown format with fade-in/fade-out dynamics
+
+### 3. Web Audio Implementation
+
+Built entirely with the Web Audio API using:
+
+- **Oscillators** for all sound generation (no samples)
+- **Sawtooth waves** with distortion curves for bass
+- **Filtered sine waves** for guitar and pads
+- **Detuned oscillators** for pad richness
+- **Synthesized drums** (kick, snare, hi-hat) from scratch
+- **Dynamic gain envelopes** for fade-ins and fade-outs
+
+### 4. Song Structure
+
+The 54-bar composition follows this structure:
+
+1. **INTRO** (4 bars) - Minimal drums, fade-in
+2. **VERSE** (8 bars) - Steady rhythm established
+3. **CHORUS** (8 bars) - Full intensity
+4. **VERSE** (8 bars) - Variation
+5. **BREAKDOWN** (4 bars) - Tension building
+6. **VERSE** (8 bars) - Return to drive
+7. **CHORUS** (8 bars) - Intense climax
+8. **OUTRO** (6 bars) - Gradual decay, fade-out
+
+## The Biological Metaphor
+
+RNA Polymerase controls the flow of genetic information—when it malfunctions, the consequences cascade throughout the cell. The music mirrors this: what starts as mechanical precision gradually builds into overwhelming, anxious energy. The repetitive bass line represents the relentless nature of molecular processes, while the sparse, cold guitar echoes the impersonal machinery of biochemistry.
+
+This isn't just data sonification—it's an artistic interpretation of biological function and dysfunction, rendered in the aesthetic language of post-punk.
+
+## Try It Yourself
+
+Click **PLAY** in the embedded player above to experience the full composition. The interface shows:
+
+- Real-time section tracking
+- Interactive progress bar
+- Song structure visualization
+- Musical theme breakdown
+
+The entire piece is generated in real-time using only browser-native Web Audio API—no external libraries, no pre-recorded samples, just pure synthesis.
+
+---
+
+**Inspiration**: Joy Division, Protein Data Bank, Post-Punk Aesthetics  
+**Protein**: E. coli RNA Polymerase beta subunit (PDB: Various)
+
+🧬⚡ *When molecular regulation fails, the music takes over.*
