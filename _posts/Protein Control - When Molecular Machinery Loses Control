@@ -10,7 +10,7 @@ An experimental project that transforms the E. coli RNA Polymerase beta subunit 
 
 <div style="width: 100%; height: 800px; border: 2px solid #374151; margin: 2rem 0; background: #000;">
   <iframe 
-    src="{{ site.baseurl }}/assets/protein-control.html" 
+    src="sysmicro.github.io/assets/protein-control.html" 
     style="width: 100%; height: 100%; border: none;"
     title="Protein Control Interactive"
     allow="autoplay">
