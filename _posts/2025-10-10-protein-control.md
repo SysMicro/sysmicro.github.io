@@ -34,7 +34,7 @@ Each of the 20 standard amino acids is assigned a specific frequency in a minor 
 
 The composition draws heavy inspiration from "She's Lost Control" (1979):
 
-- **Tempo**: 180 BPM—fast, urgent, relentless
+- **Tempo**: 143 BPM—fast, urgent, relentless
 - **Bass**: Driving 8th notes with sawtooth distortion, high in the mix
 - **Guitar**: Minimal, filtered sine waves creating cold texture
 - **Synth**: Dark pads with subtle detuning for an unsettling atmosphere
