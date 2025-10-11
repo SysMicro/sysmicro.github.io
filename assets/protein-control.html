@@ -260,7 +260,7 @@
         <div class="info-box">
             <p class="info-title">COMPOSITION:</p>
             <ul class="info-list">
-                <li>→ TEMPO: 180 BPM (fast, urgent, relentless)</li>
+                <li>→ TEMPO: 143 BPM (fast, urgent, relentless)</li>
                 <li>→ BASS: Fast 8th notes, synth-like, driving</li>
                 <li>→ GUITAR: Minimal, cold texture</li>
                 <li>→ SYNTH: Dark, oppressive pads with tension</li>
@@ -348,7 +348,7 @@
         function playBar(ctx, section, barInSection) {
             const oscs = [];
             const now = ctx.currentTime;
-            const beatDuration = 60 / 132;
+            const beatDuration = 60 / 143;
 
             let fadeInFactor = 1;
             let fadeOutFactor = 1;
@@ -549,7 +549,7 @@
             let structureIndex = 0;
             let barInSection = 0;
             
-            const bpm = 180;
+            const bpm = 143;
             const barDuration = (60 / bpm) * 4 * 1000;
 
             document.getElementById('statusSection').style.display = 'block';
@@ -656,7 +656,7 @@
                     accumulatedBars += songStructure[i].bars;
                 }
                 
-                const bpm = 180;
+                const bpm = 143;
                 const barDuration = (60 / bpm) * 4 * 1000;
                 
                 const id = setInterval(() => {
