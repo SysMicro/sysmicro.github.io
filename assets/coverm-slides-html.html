@@ -295,7 +295,7 @@
                 },
                 {
                     title: "Mean Coverage",
-                    subtitle: "Most common abundance metric",
+                    subtitle: "Common abundance metric",
                     content: (
                         <div className="grid grid-cols-2 gap-6 h-full">
                             <div className="space-y-4">
@@ -391,13 +391,26 @@ contig ...---------------....
                 },
                 {
                     title: "Relative Abundance",
-                    subtitle: "Normalized abundance across genomes",
+                    subtitle: "I don't know why they choose such a bad name",
                     content: (
                         <div className="grid grid-cols-2 gap-6 h-full">
                             <div className="space-y-4">
                                 <div className="bg-green-50 p-4 rounded-lg">
                                     <p className="font-semibold mb-2">Concept:</p>
-                                    <p className="text-sm">Accounts for different genome sizes when comparing abundance</p>
+                                    <p className="text-sm">The relative abundance of each genome was calculated as its coverage divided by the total coverage of all genomes in a sample</p>
+                                </div>
+                                <div className="bg-gray-50 p-4 rounded">
+                                    <p className="font-semibold text-sm mb-2">What Relative Abundance normalizes:</p>
+                                    <div className="grid grid-cols-2 gap-2 text-sm">
+                                        <div className="flex items-center">
+                                            <span className="text-green-500 mr-2">✓</span>
+                                            <span>Genome length</span>
+                                        </div>
+                                        <div className="flex items-center">
+                                            <span className="text-green-500 mr-2">✓</span>
+                                            <span>Sequencing depth</span>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div className="bg-gray-50 p-3 rounded">
                                     <p className="font-semibold text-sm">Use case:</p>
@@ -408,58 +421,9 @@ contig ...---------------....
                                 <p className="font-semibold mb-3 text-center">Multi-Genome Comparison</p>
                                 <GenomeComparison />
                                 <p className="text-xs text-gray-600 mt-4 text-center">
-                                    Relative abundance normalizes by genome size and total coverage
+                                    Relative abundance normalizes by genome size and total coverage (ignore the figure)
                                 </p>
                             </div>
-                        </div>
-                    )
-                },
-                {
-                    title: "Method Comparison",
-                    subtitle: "Choosing the right metric",
-                    content: (
-                        <div className="space-y-4">
-                            <table className="w-full border-collapse text-sm">
-                                <thead>
-                                    <tr className="bg-gray-100">
-                                        <th className="border p-3 text-left">Method</th>
-                                        <th className="border p-3 text-left">Best For</th>
-                                        <th className="border p-3 text-left">Normalizes For</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr className="hover:bg-orange-50">
-                                        <td className="border p-3 font-mono text-xs">cpm</td>
-                                        <td className="border p-3">Simple sequencing depth normalization</td>
-                                        <td className="border p-3">Sequencing depth</td>
-                                    </tr>
-                                    <tr className="hover:bg-indigo-50">
-                                        <td className="border p-3 font-mono text-xs">rpkm</td>
-                                        <td className="border p-3">Cross-sample comparison</td>
-                                        <td className="border p-3">Genome size, sequencing depth</td>
-                                    </tr>
-                                    <tr className="hover:bg-teal-50">
-                                        <td className="border p-3 font-mono text-xs">tpm</td>
-                                        <td className="border p-3">Proportional abundance across samples</td>
-                                        <td className="border p-3">Genome size, sequencing depth</td>
-                                    </tr>
-                                    <tr className="hover:bg-blue-50">
-                                        <td className="border p-3 font-mono text-xs">mean</td>
-                                        <td className="border p-3">Tracking one genome across samples</td>
-                                        <td className="border p-3">Nothing</td>
-                                    </tr>
-                                    <tr className="hover:bg-purple-50">
-                                        <td className="border p-3 font-mono text-xs">trimmed_mean</td>
-                                        <td className="border p-3">Variable coverage with outliers</td>
-                                        <td className="border p-3">Outlier positions</td>
-                                    </tr>
-                                    <tr className="hover:bg-green-50">
-                                        <td className="border p-3 font-mono text-xs">relative_abundance</td>
-                                        <td className="border p-3">Comparing genomes within a sample</td>
-                                        <td className="border p-3">Genome size, read mapping</td>
-                                    </tr>
-                                </tbody>
-                            </table>
                         </div>
                     )
                 },
