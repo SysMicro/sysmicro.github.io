@@ -181,46 +181,11 @@
             const slides = [
                 {
                     title: "CoverM Genome Abundance Calculation Methods",
-                    
+                    subtitle: "Methods for calculating genome abundance from metagenomic reads",
                     content: (
                         <div className="text-center space-y-6">
-                            <p className="text-xl text-gray-600">Methods for calculating genome abundance from metagenomic reads</p>
                             <div className="mt-8 text-gray-500">
                                 <p>Reference: github.com/wwood/CoverM</p>
-                            </div>
-                        </div>
-                    )
-                },
-                {
-                    title: "Example Context",
-                    subtitle: "Understanding the calculations",
-                    content: (
-                        <div className="grid grid-cols-2 gap-6 h-full">
-                            <div className="space-y-4">
-                                <div className="bg-blue-50 p-4 rounded-lg">
-                                    <p className="font-mono text-sm mb-2">Contig: 1000 bp length</p>
-                                    <p className="font-mono text-sm mb-2">Reads: 3 pairs total, 1 pair mapped</p>
-                                    <p className="font-mono text-sm">Read lengths: 75 bp each</p>
-                                </div>
-                                <div className="grid grid-cols-1 gap-3 text-sm">
-                                    <div className="bg-white p-3 rounded border-l-4 border-blue-500">
-                                        <p className="font-semibold">Read1 forward</p>
-                                        <p className="text-gray-600">10 bases aligned</p>
-                                    </div>
-                                    <div className="bg-white p-3 rounded border-l-4 border-green-500">
-                                        <p className="font-semibold">Read1 reverse</p>
-                                        <p className="text-gray-600">9 bases aligned</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="flex items-center justify-center">
-                                <pre className="bg-gray-100 p-4 rounded text-sm">
-{`read1_forward ========>
-read1_reverse <====+====
-contig ...---------------....
-       |    |    |    |    |
-   position 200  210  220  230  240`}
-                                </pre>
                             </div>
                         </div>
                     )
@@ -436,7 +401,7 @@ contig ...---------------....
                                 </div>
                                 <div className="bg-gray-50 p-3 rounded">
                                     <p className="font-semibold text-sm">Use case:</p>
-                                    <p className="text-sm text-gray-700">Best for comparing abundance of a single genome across multiple samples</p>
+                                    <p className="text-sm text-gray-700">Preferred over Mean Coverage/Trimmed Mean when comparing proportions within and across samples</p>
                                 </div>
                             </div>
                             <div className="bg-white p-4 rounded-lg border flex flex-col justify-center">
