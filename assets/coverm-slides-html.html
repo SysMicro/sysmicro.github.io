@@ -325,6 +325,9 @@
                                     <p className="font-semibold text-sm">Use case:</p>
                                     <p className="text-sm text-gray-700">Best for comparing abundance of multiple genomes within a single sample</p>
                                 </div>
+                            </div>
+                            <div className="bg-white p-4 rounded-lg border">
+                                <p className="font-semibold mb-3 text-center">Coverage Profile Visualization</p>
                                 <div className="flex items-center justify-center">
                                 <pre className="bg-gray-100 p-4 rounded text-sm">
 {`read1_forward ========>
@@ -334,9 +337,6 @@ contig ...---------------....
    position 200  210  220  230  240`}
                                 </pre>
                             </div>
-                            </div>
-                            <div className="bg-white p-4 rounded-lg border">
-                                <p className="font-semibold mb-3 text-center">Coverage Profile Visualization</p>
                                 <CoverageVisualization
                                     positions={[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0].map(x => x * 100)}
                                     title="Read coverage across genome positions"
