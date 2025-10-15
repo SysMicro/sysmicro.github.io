@@ -343,10 +343,32 @@ contig ...---------------....
                                         (10 + 9) / (1000 - 2 × 75) = <strong>0.0224</strong>
                                     </p>
                                 </div>
+                                 <div className="bg-gray-50 p-4 rounded">
+                                    <p className="font-semibold text-sm mb-2">What Mean Coverage normalizes:</p>
+                                    <div className="text-sm">
+                                        <div className="flex items-center mb-2">
+                                            <span className="text-green-500 mr-2">✓</span>
+                                            <span>Genome length only</span>
+                                        </div>
+                                        <div className="flex items-center">
+                                            <span className="text-red-500 mr-2">✗</span>
+                                            <span>Does NOT normalize for sequence depth</span>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div className="bg-gray-50 p-3 rounded">
                                     <p className="font-semibold text-sm">Use case:</p>
-                                    <p className="text-sm text-gray-700">Best for comparing abundance of a single genome across multiple samples</p>
+                                    <p className="text-sm text-gray-700">Best for comparing abundance of multiple genomes within a single sample</p>
                                 </div>
+                                <div className="flex items-center justify-center">
+                                <pre className="bg-gray-100 p-4 rounded text-sm">
+{`read1_forward ========>
+read1_reverse <====+====
+contig ...---------------....
+       |    |    |    |    |
+   position 200  210  220  230  240`}
+                                </pre>
+                            </div>
                             </div>
                             <div className="bg-white p-4 rounded-lg border">
                                 <p className="font-semibold mb-3 text-center">Coverage Profile Visualization</p>
@@ -414,10 +436,7 @@ contig ...---------------....
                                 </div>
                                 <div className="bg-gray-50 p-3 rounded">
                                     <p className="font-semibold text-sm">Use case:</p>
-                                    <p className="text-sm text-gray-700">Best for comparing abundance of different genomes within the same sample</p>
-                                </div>
-                                <div className="bg-yellow-50 p-3 rounded border-l-4 border-yellow-400">
-                                    <p className="font-semibold text-sm text-yellow-800">⚠️ Only available in genome mode</p>
+                                    <p className="text-sm text-gray-700">Best for comparing abundance of a single genome across multiple samples</p>
                                 </div>
                             </div>
                             <div className="bg-white p-4 rounded-lg border flex flex-col justify-center">
